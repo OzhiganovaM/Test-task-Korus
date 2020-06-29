@@ -1,0 +1,14 @@
+{
+  "name": "test-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "invoices.js",
+  "scripts": {
+    "start": "node invoices.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-loader": "^0.5.7"
+  }
+}
